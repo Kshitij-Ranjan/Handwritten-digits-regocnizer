@@ -29,22 +29,26 @@ TensorFlow / Keras
 
 scikit-learn
 
+
+
 How to Run
 
-Clone this repository:
+1.Clone this repository:
 
 git clone https://github.com/Kshitij-Ranjan/Handwritten-digits-recognizer.git
 cd Handwritten-digits-recognizer
 
 
-Install the required packages:
+2.Install the required packages:
 
 pip install -r requirements.txt
 
 
-Run the script:
+3.Run the script:
 
 python main.py
+
+
 
 Future Improvements
 
